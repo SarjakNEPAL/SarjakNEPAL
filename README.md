@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-I am currently computing student<br>I am learning JAVA and laravel<br>
+I am currently computing student<br>I am learning Kotlin, Node, React, DevOps<br>
 
 
 ## 🌐 Socials:
